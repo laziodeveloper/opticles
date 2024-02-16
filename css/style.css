@@ -124,7 +124,7 @@
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    border: 2px solid (linear-gradient(to right, #786106, #f6b749);)
+    border: 2px solid (linear-gradient(to right, #786106, #f6b749));
   }
   .learn-more {
     align-self: start;
